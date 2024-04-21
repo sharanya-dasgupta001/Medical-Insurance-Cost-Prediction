@@ -1,2 +1,6 @@
 # Medical-Insurance-Cost-Prediction
-In order to address the need for accurate estimation of medical insurance costs, this study aims to develop a regression model that predicts individual medical insurance expenses based on key demographic and health-related factors, facilitating better financial planning and risk assessment for both individuals and insurance providers.
+Developing a predictive model using regression to estimate medical insurance costs for individuals based on a range of demographic, lifestyle, and health-related factors. By accurately predicting these costs, insurance companies can improve risk assessment and pricing strategies, ensuring fair premiums for policyholders. Additionally, individuals can use the model to better understand and plan for their healthcare expenses, leading to more informed decision-making and improved financial preparedness.
+
+1. EDA and Variable selection part can be found in .ipynb file
+2. Model Building is done in .R file
+   
